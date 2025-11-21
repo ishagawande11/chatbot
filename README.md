@@ -26,5 +26,5 @@ Select the model and tools, define modules to build, and outline the testing pro
 
 ## User Interaction Diagram
 The interaction diagram is stored at:
-`/docs/chatbot-flow.png`
+`chatbot-flow.png`
 
